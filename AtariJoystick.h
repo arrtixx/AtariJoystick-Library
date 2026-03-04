@@ -13,7 +13,7 @@
 4 - Right
 5 - Paddle B (analog, unused)
 6 - Trigger (Fire)
-7 - VCC
+7 - VCC (usually +5V or +3.3V)
 8 - GND
 9 - Paddle A (analog, unused)
 */
