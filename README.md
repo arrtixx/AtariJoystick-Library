@@ -8,6 +8,7 @@ This is a simple library for working with Atari joysticks. This library is inten
      \6 7 8 9/
 	
 > 1 - Up
+> 
 > 2 - Down
 > 3 - Left
 > 4 - Right
