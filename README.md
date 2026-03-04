@@ -19,7 +19,7 @@ This is a simple library for working with Atari joysticks. This library is inten
 > 
 > 6 - Trigger (Fire)
 > 
-> 7 - VCC
+> 7 - VCC (usually +5V or +3.3V)
 > 
 > 8 - GND
 > 
