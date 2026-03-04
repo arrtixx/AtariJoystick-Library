@@ -10,10 +10,17 @@ This is a simple library for working with Atari joysticks. This library is inten
 > 1 - Up
 > 
 > 2 - Down
+> 
 > 3 - Left
+> 
 > 4 - Right
+> 
 > 5 - Paddle B (analog, unused)
+> 
 > 6 - Trigger (Fire)
+> 
 > 7 - VCC
+> 
 > 8 - GND
+> 
 > 9 - Paddle A (analog, unused)
