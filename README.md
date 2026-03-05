@@ -1,6 +1,8 @@
 # AtariJoystick Library
 This is a simple library for working with Atari joysticks.
+
 This library is intended to be used on the AVR and SAM platforms.
+
 Please note that this library is only compatible with digital (no analog) joysticks, so paddle controllers aren't compatible (for now).
 
 ## Joystick pinout:
